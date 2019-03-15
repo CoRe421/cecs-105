@@ -5,3 +5,5 @@ wow
 nice
 
 I am making a change from github
+
+I am now making a change locally
